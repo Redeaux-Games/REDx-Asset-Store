@@ -1,9 +1,9 @@
 {
-  "name": "store",
-  "version": "0.0.0",
-  "description": "Simple store.",
+  "name": "redx asset store",
+  "version": "1.0.0",
+  "description": "The REDx Asset Store",
   "main": "server.js",
-  "author": "Dmitry",
+  "author": "Redeaux Interactive",
   "dependencies": {
      "express"    : "~4.7.2",
     "mongoose"   : "~3.6.2",
